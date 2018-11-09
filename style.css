@@ -1,0 +1,46 @@
+/* colors and fonts */
+body {
+	background-color: rgb(230, 230, 230);
+	color: rgb(30, 30, 30)
+	font-family:'Montserrat', sans-serif;
+	font-size: 17px;
+}
+	#profile-picture {
+		border-radius: 50%;
+		text-align: center;	
+	}	
+h1, h2, h3 {
+	font-family:'Roboto', sans-serif;
+	text-align: center;
+}
+h1 {
+	color: red;
+	font-weight: 100;
+	letter-spacing: 10px; 
+	font-size: 50px;
+	text-shadow: 1px 1px 1px 
+	text-align:center;   
+}
+h2 {
+	color: red;
+	font-weight: 100;
+	letter-spacing: 10px; 
+	font-size: 40px;
+	text-align:center; 
+}
+/*custom design with class*/
+.list-inline {
+	list-style: none;
+	padding-left: 0px
+	text-align:center; 
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	text-align:center; 
+}
+.centrage {
+	text-align: center;
+
+
+}
